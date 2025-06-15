@@ -31,8 +31,7 @@ Usage:
 
 ```
     :: Rogue .NET Source Code Generation Utility ::
-    Comes with a few hardcoded C# code templates and an easy wrapper around csc.exe compiler
-    Mariusz Banach / mgeeky, <mb@binary-offensive.com>, '19-23
+
 
 usage: .\generateRogueDotNet.py [options] <inputFile|cmdline>
 
